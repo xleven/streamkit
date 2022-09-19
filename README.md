@@ -2,7 +2,14 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/celevn/streamkit/main/home.py)
 
-Python toolbox build on Streamlit
+Python toolbox built with Streamlit
+
+
+## Toolkits
+
+- [x] Datetime toolbox
+- [x] QR code playground
+- [x] Custom code runner
 
 
 ## License
