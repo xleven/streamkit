@@ -1,1 +1,2 @@
+qrcode
 streamlit_ace
