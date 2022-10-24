@@ -1,6 +1,6 @@
 # StreamKit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/celevn/streamkit/main/home.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamkit.streamlit.io)
 
 Python toolbox built with Streamlit
 
@@ -16,4 +16,4 @@ Python toolbox built with Streamlit
 
 [MIT License](https://github.com/celevn/streamkit/blob/main/LICENSE)
 
-Copyright © 2022, Celevn
+Copyright © 2022, [Celevn](https://github.com/celevn)
