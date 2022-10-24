@@ -1,19 +1,28 @@
 import streamlit as st
 
 
-st.title("StreamKit")
-st.caption("Python toolbox built with Streamlit")
+st.set_page_config(page_title="StreamKit · Python toolbox built with Streamlit")
 
 home_page = """
-# Toolkits
+# StreamKit
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamkit.streamlit.io)
+
+Python toolbox built with Streamlit
+
+
+## Toolkits
 
 - [x] Datetime toolbox
 - [x] QR code playground
 - [x] Custom code runner
 
-# About
 
-I'm [Celevn](https://github.com/celevn), a Pythoner / data geek.
+## License
+
+[MIT License](https://github.com/celevn/streamkit/blob/main/LICENSE)
+
+Copyright © 2022, [Celevn](https://github.com/celevn)
 """
 
 st.markdown(home_page)
