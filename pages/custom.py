@@ -2,6 +2,8 @@ import streamlit as st
 from streamlit_ace import st_ace
 
 
+st.set_page_config(page_title="StreamKit · web toolbox")
+
 st.header("Custom code runner")
 
 default = """# Write costom code here

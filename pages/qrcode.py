@@ -6,6 +6,8 @@ from qrcode import QRCode
 from qrcode import ERROR_CORRECT_L, ERROR_CORRECT_M, ERROR_CORRECT_Q, ERROR_CORRECT_H
 
 
+st.set_page_config(page_title="StreamKit · web toolbox")
+
 st.header("QR code playgroud")
 st.caption("Powered by [python-qrcode](https://github.com/lincolnloop/python-qrcode)")
 

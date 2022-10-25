@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.set_page_config(page_title="StreamKit · Python toolbox built with Streamlit")
+st.set_page_config(page_title="StreamKit · web toolbox")
 
 home_page = """
 # StreamKit
